@@ -1,0 +1,18 @@
+.add-room {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 12px 24px;
+}
+
+.add-room-input {
+    margin-bottom: 12px;
+    font-weight: bold;
+    padding: 2px;
+}
+
+.add-room-btn {
+    background-color: lightskyblue;
+    border: 0.5px solid black;
+    padding: 4px;
+}

@@ -1,0 +1,19 @@
+.room-page {
+    display: flex;
+    border: 1px solid black;
+    flex-direction: column;
+    padding: 18px 48px;
+}
+
+.room-page-txt {
+    font-weight: bold;
+    margin-bottom: 24px;
+}
+
+.room-page-btn {
+    margin-top: 12px;
+    padding: 4px 2px;
+    width: 90px;
+    font-weight: bold;
+    cursor: pointer;
+}

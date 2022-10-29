@@ -1,0 +1,14 @@
+.add-product {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 12px;
+    margin-top: 12px;
+}
+
+.add-product-btn {
+    width: 50px;
+    border: 0.5px solid black;
+    background-color: lightskyblue;
+    margin-top: 8px;
+}

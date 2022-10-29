@@ -1,0 +1,9 @@
+.product {
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    margin: 2px;
+    padding: 1px;
+    font-weight: bold;
+    cursor: pointer;
+}
